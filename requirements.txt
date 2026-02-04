@@ -7,3 +7,4 @@ pillow
 deepface
 openai
 python-multipart
+tf-keras
